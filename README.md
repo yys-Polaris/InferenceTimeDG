@@ -5,4 +5,4 @@ Authors: Prashant Pandey, Mrigank Raman*, Sumanth Varambally*, Prathosh AP.
 
 (* denotes equal contribution)
 
-For clarifications, contact [Prashant Pandey](getprashant57@gmail.com)
+For clarifications, contact [Prashant Pandey](mailto:getprashant57@gmail.com)
