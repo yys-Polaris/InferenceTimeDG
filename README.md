@@ -28,7 +28,18 @@ To do Nearest Neighbor search on VLCS with FNet features
 python vlcs_1NN_Sampler.py
 ```
 
+## Citation
 
+If you find our work useful, please consider citing our paper.
+
+```
+@article{pandey2021domain,
+  title={Domain Generalization via Inference-time Label-Preserving Target Projections},
+  author={Pandey, Prashant and Raman, Mrigank and Varambally, Sumanth and AP, Prathosh},
+  journal={arXiv preprint arXiv:2103.01134},
+  year={2021}
+}
+```
 
 
 For clarifications, contact [Prashant Pandey](mailto:getprashant57@gmail.com)
