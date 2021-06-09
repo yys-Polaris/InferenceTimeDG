@@ -1,5 +1,5 @@
 # Domain Generalization via Inference-time Label-Preserving Target Projections
-Code for the paper "Domain Generalization via Inference-time Label-Preserving Target Projections", set to appear at CVPR 2021 Oral.
+Code for the CVPR 2021 Oral paper "Domain Generalization via Inference-time Label-Preserving Target Projections".
 The proposed method introduces a new way to handle Domain Generalization problem as compared to the traditional methods. It uses test-time
 optimization to optimize the target features and projects them in the source manifold. 
 
