@@ -35,11 +35,13 @@ python vlcs_1NN_Sampler.py
 If you find our work useful, please consider citing our paper.
 
 ```
-@article{pandey2021domain,
-  title={Domain Generalization via Inference-time Label-Preserving Target Projections},
-  author={Pandey, Prashant and Raman, Mrigank and Varambally, Sumanth and AP, Prathosh},
-  journal={arXiv preprint arXiv:2103.01134},
-  year={2021}
+@InProceedings{Pandey_2021_CVPR,
+    author    = {Pandey, Prashant and Raman, Mrigank and Varambally, Sumanth and AP, Prathosh},
+    title     = {Generalization on Unseen Domains via Inference-Time Label-Preserving Target Projections},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2021},
+    pages     = {12924-12933}
 }
 ```
 
